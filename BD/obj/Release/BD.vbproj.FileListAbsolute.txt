@@ -1,0 +1,8 @@
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\BD\bin\Release\BD.dll
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\BD\bin\Release\BD.pdb
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\BD\bin\Release\BD.xml
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\BD\obj\Release\BD.Resources.resources
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\BD\obj\Release\BD.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\BD\obj\Release\BD.dll
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\BD\obj\Release\BD.xml
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\BD\obj\Release\BD.pdb

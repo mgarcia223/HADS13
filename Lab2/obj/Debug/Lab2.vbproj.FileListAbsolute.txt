@@ -1,0 +1,215 @@
+C:\Users\ehu\Desktop\Lab2\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\ehu\Desktop\Lab2\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2\Lab2\bin\Lab2.dll
+C:\Users\ehu\Desktop\Lab2\Lab2\bin\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2\Lab2\bin\Lab2.xml
+C:\Users\ehu\Desktop\Lab2\Lab2\obj\Debug\Lab2.dll
+C:\Users\ehu\Desktop\Lab2\Lab2\obj\Debug\Lab2.xml
+C:\Users\ehu\Desktop\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2\Lab2\Lab2\bin\Lab2.dll
+C:\Users\EHU\Desktop\Lab2\Lab2\Lab2\bin\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2\Lab2\Lab2\bin\Lab2.xml
+C:\Users\EHU\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\EHU\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.dll
+C:\Users\EHU\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.xml
+C:\Users\EHU\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2\Lab2\bin\BD.dll
+C:\Users\EHU\Desktop\Lab2\Lab2\bin\BD.pdb
+C:\Users\EHU\Desktop\Lab2\Lab2\bin\BD.xml
+C:\Users\EHU\Desktop\Lab2\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\obj\Debug\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\obj\Debug\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\bin\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\bin\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\bin\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\bin\BD.dll
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\bin\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\Lab2\bin\BD.xml
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\bin\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\bin\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\bin\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\bin\BD.dll
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\bin\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\bin\BD.xml
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\obj\Debug\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\obj\Debug\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\bin\Lab2.dll
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\bin\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\bin\Lab2.xml
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\bin\BD.dll
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\bin\Email.dll
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\bin\BD.pdb
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\bin\BD.xml
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\bin\Email.pdb
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\bin\Email.xml
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\obj\Debug\Lab2.dll
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\obj\Debug\Lab2.xml
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\bin\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\bin\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\bin\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\bin\BD.dll
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\bin\Email.dll
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\bin\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\bin\BD.xml
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\bin\Email.pdb
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\bin\Email.xml
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\obj\Debug\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\obj\Debug\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\Lab2\obj\Debug\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\Lab2\obj\Debug\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\bin\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\bin\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\bin\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\bin\BD.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\bin\Email.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\bin\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\bin\BD.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\bin\Email.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\bin\Email.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\obj\Debug\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\obj\Debug\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\bin\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\bin\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\bin\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\bin\BD.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\bin\Email.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\bin\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\bin\BD.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\bin\Email.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\bin\Email.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\obj\Debug\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\obj\Debug\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\bin\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\bin\Lab2.pdb
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\bin\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\bin\BD.dll
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\bin\Email.dll
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\bin\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\bin\BD.xml
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\bin\Email.pdb
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\bin\Email.xml
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\obj\Debug\Lab2.dll
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\obj\Debug\Lab2.xml
+C:\Users\ehu\Desktop\Lab2 (11-03-2016-13-51)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\bin\Lab2.dll
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\bin\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\bin\Lab2.xml
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\bin\BD.dll
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\bin\Email.dll
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\bin\BD.pdb
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\bin\BD.xml
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\bin\Email.pdb
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\bin\Email.xml
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\obj\Debug\Lab2.dll
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\obj\Debug\Lab2.xml
+C:\Users\EHU\Desktop\Lab2 (11-03-2016-13-58)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\obj\Debug\Lab2.dll
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\obj\Debug\Lab2.xml
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\bin\Lab2.dll
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\bin\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\bin\Lab2.xml
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\bin\BD.dll
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\bin\Email.dll
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\bin\BD.pdb
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\bin\BD.xml
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\bin\Email.pdb
+C:\Users\EHU\Desktop\Lab2 (12-03-2016-19-00)\Lab2\bin\Email.xml
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\bin\Lab2.dll
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\bin\Lab2.pdb
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\bin\Lab2.xml
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\bin\BD.dll
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\bin\Email.dll
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\bin\BD.pdb
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\bin\BD.xml
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\bin\Email.pdb
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\bin\Email.xml
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\obj\Debug\Lab2.dll
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\obj\Debug\Lab2.xml
+C:\Users\hp\Desktop\Lab2 (12-03-2016-20-30)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\bin\Lab2.dll
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\bin\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\bin\Lab2.xml
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\bin\BD.dll
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\bin\Email.dll
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\bin\BD.pdb
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\bin\BD.xml
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\bin\Email.pdb
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\bin\Email.xml
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\obj\Debug\Lab2.dll
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\obj\Debug\Lab2.xml
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-20-18)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\bin\Lab2.dll
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\bin\Lab2.pdb
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\bin\Lab2.xml
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\bin\BD.dll
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\bin\Email.dll
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\bin\BD.pdb
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\bin\BD.xml
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\bin\Email.pdb
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\bin\Email.xml
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\obj\Debug\Lab2.dll
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\obj\Debug\Lab2.xml
+C:\Users\EHU\Desktop\Lab2 (13-03-2016-23-18)\Lab2\obj\Debug\Lab2.pdb
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\bin\Lab2.dll
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\bin\Lab2.pdb
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\bin\Lab2.xml
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\bin\BD.dll
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\bin\Email.dll
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\bin\BD.pdb
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\bin\BD.xml
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\bin\Email.pdb
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\bin\Email.xml
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\obj\Debug\Lab2.dll
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\obj\Debug\Lab2.xml
+C:\Users\hp\Desktop\Lab2 (14-03-2016-21-29)\Lab2\obj\Debug\Lab2.pdb

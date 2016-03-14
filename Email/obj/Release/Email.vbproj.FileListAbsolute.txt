@@ -1,0 +1,8 @@
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\Email\bin\Release\Email.dll
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\Email\bin\Release\Email.pdb
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\Email\bin\Release\Email.xml
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\Email\obj\Release\Email.Resources.resources
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\Email\obj\Release\Email.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\Email\obj\Release\Email.dll
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\Email\obj\Release\Email.xml
+C:\Users\EHU\Desktop\Lab2 (14-03-2016-09-45)\Email\obj\Release\Email.pdb

@@ -1,0 +1,64 @@
+C:\Users\EHU\Desktop\Lab2\BD\obj\Debug\BD.Resources.resources
+C:\Users\EHU\Desktop\Lab2\BD\obj\Debug\BD.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab2\BD\bin\Debug\BD.dll
+C:\Users\EHU\Desktop\Lab2\BD\bin\Debug\BD.pdb
+C:\Users\EHU\Desktop\Lab2\BD\bin\Debug\BD.xml
+C:\Users\EHU\Desktop\Lab2\BD\obj\Debug\BD.dll
+C:\Users\EHU\Desktop\Lab2\BD\obj\Debug\BD.xml
+C:\Users\EHU\Desktop\Lab2\BD\obj\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\BD\bin\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\BD\bin\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\BD\bin\Debug\BD.xml
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\BD\obj\Debug\BD.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\BD\obj\Debug\BD.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\BD\obj\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\BD\obj\Debug\BD.xml
+C:\Users\ehu\Desktop\Lab2 (12-02-2016-13-49)\BD\obj\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\BD\obj\Debug\BD.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\BD\obj\Debug\BD.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\BD\obj\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\BD\obj\Debug\BD.xml
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\BD\obj\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\BD\bin\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\BD\bin\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (16-02-2016-18-33)\BD\bin\Debug\BD.xml
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\BD\bin\Debug\BD.dll
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\BD\bin\Debug\BD.pdb
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\BD\bin\Debug\BD.xml
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\BD\obj\Debug\BD.Resources.resources
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\BD\obj\Debug\BD.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\BD\obj\Debug\BD.dll
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\BD\obj\Debug\BD.xml
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\BD\obj\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\BD\bin\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\BD\bin\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\BD\bin\Debug\BD.xml
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\BD\obj\Debug\BD.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\BD\obj\Debug\BD.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\BD\obj\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\BD\obj\Debug\BD.xml
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\BD\obj\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\BD\bin\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\BD\bin\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\BD\bin\Debug\BD.xml
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\BD\obj\Debug\BD.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\BD\obj\Debug\BD.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\BD\obj\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\BD\obj\Debug\BD.xml
+C:\Users\ehu\Desktop\Lab2 (08-03-2016-17-34)\BD\obj\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\BD\bin\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\BD\bin\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\BD\bin\Debug\BD.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\BD\obj\Debug\BD.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\BD\obj\Debug\BD.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\BD\obj\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\BD\obj\Debug\BD.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-12-22)\BD\obj\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\bin\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\bin\Debug\BD.pdb
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\bin\Debug\BD.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\obj\Debug\BD.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\obj\Debug\BD.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\obj\Debug\BD.dll
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\obj\Debug\BD.xml
+C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\obj\Debug\BD.pdb

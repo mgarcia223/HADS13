@@ -1,0 +1,16 @@
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Email\bin\Debug\Email.dll
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Email\bin\Debug\Email.pdb
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Email\bin\Debug\Email.xml
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Email\obj\Debug\Email.Resources.resources
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Email\obj\Debug\Email.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Email\obj\Debug\Email.dll
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Email\obj\Debug\Email.xml
+C:\Users\EHU\Desktop\Lab2 (18-02-2016-12-20)\Email\obj\Debug\Email.pdb
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\bin\Debug\Email.dll
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\bin\Debug\Email.pdb
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\bin\Debug\Email.xml
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\obj\Debug\Email.Resources.resources
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\obj\Debug\Email.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\obj\Debug\Email.dll
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\obj\Debug\Email.xml
+C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\obj\Debug\Email.pdb
