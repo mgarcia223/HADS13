@@ -1,5 +1,6 @@
 ﻿Imports BD.accesodatosSQL
 Imports Email.envioEmailConfirmacion
+Imports System.Security.Cryptography.SHA1
 
 Public Class Registro
 
@@ -17,7 +18,7 @@ Public Class Registro
         Dim apellido1 As String
         Dim apellido2 As String
         Dim dni As String
-        Dim pass As String
+        Dim passbru As String
         Dim p_secreta As String
         Dim r_secreta As String
         Dim nombre As String
@@ -29,7 +30,17 @@ Public Class Registro
         apellido1 = TextBox3.Text
         apellido2 = TextBox9.Text
         dni = TextBox4.Text
-        pass = TextBox5.Text
+        passbru = TextBox5.Text
+
+        Dim sha1Obj As New System.Security.Cryptography.SHA1CryptoServiceProvider
+        Dim bytesToHash() As Byte = System.Text.Encoding.ASCII.GetBytes(passbru)
+        bytesToHash = sha1Obj.ComputeHash(bytesToHash)
+        Dim pass As String = ""
+
+        For Each b As Byte In bytesToHash
+            pass += b.ToString("x2")
+        Next
+
         p_secreta = TextBox7.Text
         r_secreta = TextBox8.Text
 
@@ -50,6 +61,6 @@ Public Class Registro
         'HyperLink1.Text = "Confirmar"
         'HyperLink1.Visible = True
 
-        
+
     End Sub
 End Class

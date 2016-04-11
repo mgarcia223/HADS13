@@ -28,7 +28,7 @@ Public Class accesodatosSQL
     'Insertar Registro
     Public Shared Function insertarRegistro(ByVal email As String, ByVal nombre As String, ByVal apellido1 As String, ByVal apellido2 As String, ByVal dni As String, ByVal pass As String, ByVal p_secre As String, ByVal r_secre As String, ByVal numConf As Integer) As String
 
-        Dim st = "insert into Usuarios (email, nombre, dni, pass, pregunta, respuesta, N_Confirmacion ) values ('" & email & "','" & nombre & "','" & dni & "','" & pass & "','" & p_secre & "','" & r_secre & "', '" & numConf & "')"
+        Dim st = "insert into Usuarios (email, nombre, dni, pass, pregunta, respuesta ) values ('" & email & "','" & nombre & "','" & dni & "','" & pass & "','" & p_secre & "','" & r_secre & "')"
         Dim numregs As Integer
 
         comando = New SqlCommand(st, conexion)

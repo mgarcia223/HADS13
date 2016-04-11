@@ -62,3 +62,11 @@ C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\obj\Debug\BD.vbproj.GenerateReso
 C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\obj\Debug\BD.dll
 C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\obj\Debug\BD.xml
 C:\Users\ehu\Desktop\Lab2 (10-03-2016-17-13)\BD\obj\Debug\BD.pdb
+C:\Users\hp\Desktop\Lab6(09-04-2015-2052)\BD\bin\Debug\BD.dll
+C:\Users\hp\Desktop\Lab6(09-04-2015-2052)\BD\bin\Debug\BD.pdb
+C:\Users\hp\Desktop\Lab6(09-04-2015-2052)\BD\bin\Debug\BD.xml
+C:\Users\hp\Desktop\Lab6(09-04-2015-2052)\BD\obj\Debug\BD.Resources.resources
+C:\Users\hp\Desktop\Lab6(09-04-2015-2052)\BD\obj\Debug\BD.vbproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Lab6(09-04-2015-2052)\BD\obj\Debug\BD.dll
+C:\Users\hp\Desktop\Lab6(09-04-2015-2052)\BD\obj\Debug\BD.xml
+C:\Users\hp\Desktop\Lab6(09-04-2015-2052)\BD\obj\Debug\BD.pdb

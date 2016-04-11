@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<Tareas xmlns:has="https://ji.ehu.es/hads">
+  <Tarea>
+    <Codigo>ISO-Lab1</Codigo>
+    <Descripcion>prueba</Descripcion>
+    <Hestimadas>12</Hestimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Ejercicio</TipoTarea>
+  </Tarea>
+</Tareas>

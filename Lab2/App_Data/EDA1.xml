@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<Tareas>
+  <Tarea>
+    <Codigo>EDA07-Ej1</Codigo>
+    <Descripcion>Ejercicio sobre listas ligadas</Descripcion>
+    <Hestimadas>3</Hestimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Ejercicio</TipoTarea>
+  </Tarea>
+  <Tarea>
+    <Codigo>EDA13</Codigo>
+    <Descripcion>examen</Descripcion>
+    <Hestimadas>12</Hestimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Examen</TipoTarea>
+  </Tarea>
+  <Tarea>
+    <Codigo>EX-123</Codigo>
+    <Descripcion>examen</Descripcion>
+    <Hestimadas>4</Hestimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Examen</TipoTarea>
+  </Tarea>
+  <Tarea>
+    <Codigo>Prueba</Codigo>
+    <Descripcion>Prueba</Descripcion>
+    <Hestimadas>12</Hestimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+  </Tarea>
+  <Tarea>
+    <Codigo>Prueba2</Codigo>
+    <Descripcion />
+    <Hestimadas>12</Hestimadas>
+    <Explotacion>false</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+  </Tarea>
+</Tareas>

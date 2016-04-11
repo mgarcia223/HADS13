@@ -14,3 +14,19 @@ C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\obj\Debug\Email.vbproj.Genera
 C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\obj\Debug\Email.dll
 C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\obj\Debug\Email.xml
 C:\Users\ehu\Desktop\Lab2 (19-02-2016-13-08)\Email\obj\Debug\Email.pdb
+C:\Users\ehu\Desktop\Lab4 (14-03-2016-23-00)\Email\bin\Debug\Email.dll
+C:\Users\ehu\Desktop\Lab4 (14-03-2016-23-00)\Email\bin\Debug\Email.pdb
+C:\Users\ehu\Desktop\Lab4 (14-03-2016-23-00)\Email\bin\Debug\Email.xml
+C:\Users\ehu\Desktop\Lab4 (14-03-2016-23-00)\Email\obj\Debug\Email.Resources.resources
+C:\Users\ehu\Desktop\Lab4 (14-03-2016-23-00)\Email\obj\Debug\Email.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab4 (14-03-2016-23-00)\Email\obj\Debug\Email.dll
+C:\Users\ehu\Desktop\Lab4 (14-03-2016-23-00)\Email\obj\Debug\Email.xml
+C:\Users\ehu\Desktop\Lab4 (14-03-2016-23-00)\Email\obj\Debug\Email.pdb
+C:\Users\EHU\Desktop\Lab5(210316-1004)\HADS13\Email\bin\Debug\Email.dll
+C:\Users\EHU\Desktop\Lab5(210316-1004)\HADS13\Email\bin\Debug\Email.pdb
+C:\Users\EHU\Desktop\Lab5(210316-1004)\HADS13\Email\bin\Debug\Email.xml
+C:\Users\EHU\Desktop\Lab5(210316-1004)\HADS13\Email\obj\Debug\Email.Resources.resources
+C:\Users\EHU\Desktop\Lab5(210316-1004)\HADS13\Email\obj\Debug\Email.vbproj.GenerateResource.Cache
+C:\Users\EHU\Desktop\Lab5(210316-1004)\HADS13\Email\obj\Debug\Email.dll
+C:\Users\EHU\Desktop\Lab5(210316-1004)\HADS13\Email\obj\Debug\Email.xml
+C:\Users\EHU\Desktop\Lab5(210316-1004)\HADS13\Email\obj\Debug\Email.pdb
