@@ -37,9 +37,8 @@
         <asp:Label ID="Label1" runat="server" Visible="False"></asp:Label>
         <br />
         <br />
-        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="Profesor.aspx">Menu Profesor</asp:HyperLink>
-        <br />
         </strong>
+        <asp:LinkButton ID="LinkButton1" runat="server">Volver</asp:LinkButton>
     
     </div>
     </form>

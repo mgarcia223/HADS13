@@ -15,7 +15,8 @@ Public Class Inicio
     End Sub
 
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-
+        Dim ListaProf As New ArrayList
+        Dim ListaAlum As New ArrayList
         Dim email As String
         Dim passbru As String
         Dim tipodef As String
@@ -32,6 +33,7 @@ Public Class Inicio
         For Each b As Byte In bytesToHash
             pass += b.ToString("x2")
         Next
+
         conectar()
         tipo = login(email, pass)
 
@@ -51,10 +53,26 @@ Public Class Inicio
                 Else
                     System.Web.Security.FormsAuthentication.SetAuthCookie("Profesor", True)
                 End If
+
+                Application.Lock()
+                ListaProf = Application("ListaProf")
+                ListaProf.Add(Session("email"))
+                Application("ListaProf") = ListaProf
+                Application("NumProf") = Application("NumProf") + 1
+                Application.UnLock()
+
                 Response.Redirect("Privado/Profesor/Profesor.aspx")
             Else
                 If tipodef = "A" Then
                     System.Web.Security.FormsAuthentication.SetAuthCookie("Alumno", True)
+
+                    Application.Lock()
+                    ListaAlum = Application("ListaAlum")
+                    ListaAlum.Add(Session("email"))
+                    Application("ListaAlum") = ListaAlum
+                    Application("NumAlum") = Application("NumAlum") + 1
+                    Application.UnLock()
+
                     Response.Redirect("Privado/Alumno/Alumno.aspx")
                 Else
                     If email = "admin@ehu.es" Then

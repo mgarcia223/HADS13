@@ -82,11 +82,12 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Global.asax" />
     <Content Include="Privado\Administrador\Usuarios.aspx" />
     <Content Include="Privado\Alumno\Alumno.aspx" />
     <Content Include="CambiarPassword.aspx" />
     <Content Include="Confirmar.aspx" />
-    <Content Include="Privado\Profesor\Estadistica.aspx" />
+    <Content Include="Privado\Alumno\Estadistica.aspx" />
     <Content Include="Privado\Profesor\ImportarTareas.aspx" />
     <Content Include="Privado\Profesor\ImportarTareas_DataSet.aspx" />
     <Content Include="Inicio.aspx" />
@@ -101,6 +102,9 @@
     <Content Include="Privado\Profesor\ExportarTareas.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
     <Compile Include="Privado\Administrador\Usuarios.aspx.designer.vb">
       <DependentUpon>Usuarios.aspx</DependentUpon>
     </Compile>
@@ -129,10 +133,10 @@
       <DependentUpon>Confirmar.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="Privado\Profesor\Estadistica.aspx.designer.vb">
+    <Compile Include="Privado\Alumno\Estadistica.aspx.designer.vb">
       <DependentUpon>Estadistica.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Privado\Profesor\Estadistica.aspx.vb">
+    <Compile Include="Privado\Alumno\Estadistica.aspx.vb">
       <DependentUpon>Estadistica.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>

@@ -53,6 +53,10 @@
         <br />
         <asp:HyperLink ID="HyperLink1" runat="server" ForeColor="Blue" NavigateUrl="TareasProfesor.aspx">Ver Tareas</asp:HyperLink>
     
+        <br />
+        <br />
+        <asp:LinkButton ID="LinkButton1" runat="server">Volver</asp:LinkButton>
+    
     </div>
     </form>
 </body>

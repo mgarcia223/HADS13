@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="HADS-13-BDConnectionString-Web.config Connection String" description="HADS-13-BDConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=tcp:hads-13.database.windows.net,1433;Initial Catalog=HADS-13-BD;User ID=hads-13@hads-13" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\EHU\\Desktop\\Lab5\(210316-1004\)\\Lab2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HADS-13-BDConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="AsignaturasProfesor-Web.config Connection String" description="AsignaturasProfesor Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=tcp:hads-13.database.windows.net,1433;Initial Catalog=HADS-13-BD;User ID=hads-13@hads-13;Password=MikelMarta123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\EHU\\Desktop\\Lab5\(210316-1004\)\\Lab2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AsignaturasProfesor']/@connectionString" />
+  </parameter>
+</parameters>

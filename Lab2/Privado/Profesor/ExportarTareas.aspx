@@ -76,6 +76,8 @@
         <br />
         </strong>
     
+        <asp:LinkButton ID="LinkButton1" runat="server">Volver</asp:LinkButton>
+    
     </div>
     </form>
 </body>

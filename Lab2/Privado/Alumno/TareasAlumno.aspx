@@ -30,6 +30,9 @@
         <br />
         <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Estadistica.aspx">Estadistica horas reales por asignatura</asp:HyperLink>
         <br />
+        <br />
+        <asp:LinkButton ID="LinkButton1" runat="server">Volver</asp:LinkButton>
+        <br />
     
     </div>
     </form>

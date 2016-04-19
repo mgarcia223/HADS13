@@ -11,6 +11,9 @@
     <form id="form1" runat="server">
     <div>
     
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+    
         <br />
         <asp:Label ID="Label1" runat="server" Font-Size="XX-Large" Text="Gestión Web de Tareas-Dedicación"></asp:Label>
         <br />
@@ -34,6 +37,23 @@
         <br />
         <br />
         <asp:HyperLink ID="HyperLink6" runat="server" ForeColor="Blue" NavigateUrl="ImportarTareas_DataSet.aspx">Importar v. DataSet</asp:HyperLink>
+        <br />
+        <br />
+        <asp:LinkButton ID="LinkButton1" runat="server">Cerrar Sesion</asp:LinkButton>
+        <br />
+        <br />
+        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+            <ContentTemplate>
+                <asp:Timer ID="Timer1" runat="server" Interval="5000">
+                </asp:Timer>
+                <br />
+                <asp:Label ID="Label3" runat="server" Text="Numero de Profesores online:"></asp:Label>
+                &nbsp;<asp:Label ID="Label4" runat="server"></asp:Label>
+                <br />
+                <br />
+                <asp:ListBox ID="ListBox1" runat="server" AutoPostBack="True" Height="107px" Width="164px"></asp:ListBox>
+            </ContentTemplate>
+        </asp:UpdatePanel>
         <br />
     
     </div>
