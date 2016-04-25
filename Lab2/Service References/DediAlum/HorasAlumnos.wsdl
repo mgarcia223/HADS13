@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Hesti">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="asig" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="email" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="HestiResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="HestiResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Hreal">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="asig" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="email" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="HrealResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="HrealResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Diferencia">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="hesti" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="hreal" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DiferenciaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="DiferenciaResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HestiSoapIn">
+    <wsdl:part name="parameters" element="tns:Hesti" />
+  </wsdl:message>
+  <wsdl:message name="HestiSoapOut">
+    <wsdl:part name="parameters" element="tns:HestiResponse" />
+  </wsdl:message>
+  <wsdl:message name="HrealSoapIn">
+    <wsdl:part name="parameters" element="tns:Hreal" />
+  </wsdl:message>
+  <wsdl:message name="HrealSoapOut">
+    <wsdl:part name="parameters" element="tns:HrealResponse" />
+  </wsdl:message>
+  <wsdl:message name="DiferenciaSoapIn">
+    <wsdl:part name="parameters" element="tns:Diferencia" />
+  </wsdl:message>
+  <wsdl:message name="DiferenciaSoapOut">
+    <wsdl:part name="parameters" element="tns:DiferenciaResponse" />
+  </wsdl:message>
+  <wsdl:portType name="HorasAlumnosSoap">
+    <wsdl:operation name="Hesti">
+      <wsdl:input message="tns:HestiSoapIn" />
+      <wsdl:output message="tns:HestiSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Hreal">
+      <wsdl:input message="tns:HrealSoapIn" />
+      <wsdl:output message="tns:HrealSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Diferencia">
+      <wsdl:input message="tns:DiferenciaSoapIn" />
+      <wsdl:output message="tns:DiferenciaSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="HorasAlumnosSoap" type="tns:HorasAlumnosSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Hesti">
+      <soap:operation soapAction="http://tempuri.org/Hesti" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Hreal">
+      <soap:operation soapAction="http://tempuri.org/Hreal" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Diferencia">
+      <soap:operation soapAction="http://tempuri.org/Diferencia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="HorasAlumnosSoap12" type="tns:HorasAlumnosSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Hesti">
+      <soap12:operation soapAction="http://tempuri.org/Hesti" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Hreal">
+      <soap12:operation soapAction="http://tempuri.org/Hreal" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Diferencia">
+      <soap12:operation soapAction="http://tempuri.org/Diferencia" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="HorasAlumnos">
+    <wsdl:port name="HorasAlumnosSoap" binding="tns:HorasAlumnosSoap">
+      <soap:address location="http://localhost:1482/HorasAlumnos.asmx" />
+    </wsdl:port>
+    <wsdl:port name="HorasAlumnosSoap12" binding="tns:HorasAlumnosSoap12">
+      <soap12:address location="http://localhost:1482/HorasAlumnos.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

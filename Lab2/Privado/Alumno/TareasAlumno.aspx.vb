@@ -31,12 +31,12 @@ Public Class WebForm1
 
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles ButtonVerTareas.Click
 
-
         Dim DATarea As SqlDataAdapter
         Dim DSTarea As New DataSet
         Dim DTTarea As DataTable
         Dim email As String
         Dim SelectedTask As String
+        Dim horAlum As New DediAlum.HorasAlumnosSoapClient
 
         SelectedTask = DropDownAsigAlum.SelectedItem.Text
         email = Session("email")
@@ -50,6 +50,12 @@ Public Class WebForm1
         GridViewTareasAlumno.DataSource = DTTarea
         GridViewTareasAlumno.DataBind()
 
+        Label1.Visible = True
+        Label3.Visible = True
+        Label5.Visible = True
+        Label2.Text = horAlum.Hesti(DropDownAsigAlum.SelectedValue, Session("email"))
+        Label4.Text = horAlum.Hreal(DropDownAsigAlum.SelectedValue, Session("email"))
+        Label6.Text = horAlum.Diferencia(Label2.Text, Label4.Text)
     End Sub
 
     Protected Sub GridViewTareasAlumno_SelectedIndexChanged(sender As Object, e As EventArgs) Handles GridViewTareasAlumno.SelectedIndexChanged

@@ -39,6 +39,9 @@
         <asp:HyperLink ID="HyperLink6" runat="server" ForeColor="Blue" NavigateUrl="ImportarTareas_DataSet.aspx">Importar v. DataSet</asp:HyperLink>
         <br />
         <br />
+        <asp:HyperLink ID="HyperLink7" runat="server" NavigateUrl="~/Privado/Coordinador/coordinador.aspx">Coordinador</asp:HyperLink>
+        <br />
+        <br />
         <asp:LinkButton ID="LinkButton1" runat="server">Cerrar Sesion</asp:LinkButton>
         <br />
         <br />

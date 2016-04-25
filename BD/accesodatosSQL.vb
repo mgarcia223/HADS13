@@ -122,8 +122,37 @@ Public Class accesodatosSQL
         End If
     End Function
 
-    'video Grindview https://www.youtube.com/watch?v=QAYcP9G98hs
+    'Media horas reales
+    Public Shared Function media(ByVal asig As String) As Integer
+        Dim st = "select AVG(EstudiantesTareas.HReales) from TareasGenericas, EstudiantesTareas where TareasGenericas.Codigo=EstudiantesTareas.CodTarea and TareasGenericas.CodAsig= '" & asig & "'"
+        comando = New SqlCommand(st, conexion)
+        If IsDBNull(comando.ExecuteScalar()) Then
+            Return 0
+        Else
+            Return comando.ExecuteScalar()
+        End If
+    End Function
 
+    'Media horas reales x alumno
+    Public Shared Function mediaHRea(ByVal asig As String, ByVal email As String) As Integer
+        Dim st = "select sum(EstudiantesTareas.HReales) from TareasGenericas, EstudiantesTareas where TareasGenericas.Codigo=EstudiantesTareas.CodTarea and TareasGenericas.CodAsig= '" & asig & "' and EstudiantesTareas.Email= '" & email & "' "
+        comando = New SqlCommand(st, conexion)
+        If IsDBNull(comando.ExecuteScalar()) Then
+            Return 0
+        Else
+            Return comando.ExecuteScalar()
+        End If
+    End Function
 
+    'Media horas estimadas x alumno
+    Public Shared Function mediaHEst(ByVal asig As String, ByVal email As String) As Integer
+        Dim st = "select sum(EstudiantesTareas.HEstimadas) from TareasGenericas, EstudiantesTareas where TareasGenericas.Codigo=EstudiantesTareas.CodTarea and TareasGenericas.CodAsig= '" & asig & "' and EstudiantesTareas.Email= '" & email & "' "
+        comando = New SqlCommand(st, conexion)
+        If IsDBNull(comando.ExecuteScalar()) Then
+            Return 0
+        Else
+            Return comando.ExecuteScalar()
+        End If
+    End Function
 
 End Class

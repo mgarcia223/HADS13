@@ -9,7 +9,8 @@ Public Class Registro
     Dim NumConf As Integer
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-
+        TextBox1.Text = Request.QueryString("mbr")
+        TextBox1.Enabled = False
     End Sub
 
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
