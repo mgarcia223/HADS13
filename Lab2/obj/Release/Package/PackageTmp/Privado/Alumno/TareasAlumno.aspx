@@ -28,7 +28,20 @@
             </Columns>
         </asp:GridView>
         <br />
-        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Estadistica.aspx">Estadistica horas reales por asignatura</asp:HyperLink>
+        <asp:Label ID="Label1" runat="server" Text="Total horas estimadas: " Visible="False"></asp:Label>
+        <asp:Label ID="Label2" runat="server"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Label ID="Label3" runat="server" Text="Total horas reales: " Visible="False"></asp:Label>
+        <asp:Label ID="Label4" runat="server"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Label ID="Label5" runat="server" Text="Diferencia: " Visible="False"></asp:Label>
+        <asp:Label ID="Label6" runat="server"></asp:Label>
+        <br />
+        <br />
+        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Privado/Alumno/Estadistica.aspx">Estadistica horas reales por asignatura</asp:HyperLink>
+        <br />
+        <br />
+        <asp:LinkButton ID="LinkButton1" runat="server">Volver</asp:LinkButton>
         <br />
     
     </div>

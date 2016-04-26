@@ -84,9 +84,7 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="DedicacionNoPresencial.asmx" />
     <Content Include="Global.asax" />
-    <Content Include="HorasAlumnos.asmx" />
     <Content Include="PreRegistro.aspx" />
     <Content Include="Privado\Administrador\Usuarios.aspx" />
     <Content Include="Privado\Alumno\Alumno.aspx" />
@@ -101,29 +99,6 @@
     <Content Include="Privado\Alumno\InstanciarTarea.aspx" />
     <Content Include="Privado\Profesor\Profesor.aspx" />
     <Content Include="Registro.aspx" />
-    <Content Include="Service References\DediAlum\HorasAlumnos.disco" />
-    <Content Include="Service References\DediAlum\configuration91.svcinfo" />
-    <Content Include="Service References\DediAlum\configuration.svcinfo" />
-    <Content Include="Service References\DediAlum\Lab2.DediAlum.HestiResponse.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\DediAlum\Lab2.DediAlum.HrealResponse.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\DediAlum\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.vb</LastGenOutput>
-    </Content>
-    <Content Include="Service References\Dedicacion\DedicacionNoPresencial.disco" />
-    <Content Include="Service References\Dedicacion\configuration91.svcinfo" />
-    <Content Include="Service References\Dedicacion\configuration.svcinfo" />
-    <Content Include="Service References\Dedicacion\Lab2.Dedicacion.DedicacionResponse.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\Dedicacion\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.vb</LastGenOutput>
-    </Content>
     <Content Include="Silogincorrecto.aspx" />
     <Content Include="Privado\Profesor\TareasProfesor.aspx" />
     <Content Include="Web.config" />
@@ -131,16 +106,8 @@
     <Content Include="Privado\Profesor\ExportarTareas.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DedicacionNoPresencial.asmx.vb">
-      <DependentUpon>DedicacionNoPresencial.asmx</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
-    <Compile Include="HorasAlumnos.asmx.vb">
-      <DependentUpon>HorasAlumnos.asmx</DependentUpon>
-      <SubType>Component</SubType>
     </Compile>
     <Compile Include="PreRegistro.aspx.designer.vb">
       <DependentUpon>PreRegistro.aspx</DependentUpon>
@@ -259,16 +226,6 @@
       <DependentUpon>Registro.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Service References\DediAlum\Reference.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
-    <Compile Include="Service References\Dedicacion\Reference.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
     <Compile Include="Silogincorrecto.aspx.designer.vb">
       <DependentUpon>Silogincorrecto.aspx</DependentUpon>
     </Compile>
@@ -297,6 +254,16 @@
       <DependentUpon>ExportarTareas.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="Web References\DediAlum\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\Dedicacion\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
     <Compile Include="Web References\Matriculas\Reference.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -318,9 +285,13 @@
     </None>
     <None Include="My Project\PublishProfiles\Hads13 - FTP %282%29.pubxml" />
     <None Include="My Project\PublishProfiles\Hads13 - FTP %283%29.pubxml" />
+    <None Include="My Project\PublishProfiles\Hads13 - FTP %284%29.pubxml" />
+    <None Include="My Project\PublishProfiles\Hads13 - FTP %285%29.pubxml" />
     <None Include="My Project\PublishProfiles\Hads13 - FTP.pubxml" />
     <None Include="My Project\PublishProfiles\Hads13 - Web Deploy %282%29.pubxml" />
     <None Include="My Project\PublishProfiles\Hads13 - Web Deploy %283%29.pubxml" />
+    <None Include="My Project\PublishProfiles\Hads13 - Web Deploy %284%29.pubxml" />
+    <None Include="My Project\PublishProfiles\Hads13 - Web Deploy %285%29.pubxml" />
     <None Include="My Project\PublishProfiles\Hads13 - Web Deploy.pubxml" />
     <None Include="My Project\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -332,8 +303,16 @@
       <Generator>MSDiscoCodeGenerator</Generator>
       <LastGenOutput>Reference.vb</LastGenOutput>
     </Content>
-    <Content Include="Service References\Dedicacion\DedicacionNoPresencial.wsdl" />
-    <Content Include="Service References\DediAlum\HorasAlumnos.wsdl" />
+    <Content Include="Web References\Dedicacion\DedicacionNoPresencial.wsdl" />
+    <Content Include="Web References\Dedicacion\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </Content>
+    <Content Include="Web References\DediAlum\HorasAlumnos.wsdl" />
+    <Content Include="Web References\DediAlum\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -361,6 +340,28 @@
     <WebReferences Include="Web References\" />
   </ItemGroup>
   <ItemGroup>
+    <WebReferenceUrl Include="http://servicioswebhads13.azurewebsites.net/DedicacionNoPresencial.asmx%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\Dedicacion\</RelPath>
+      <UpdateFromURL>http://servicioswebhads13.azurewebsites.net/DedicacionNoPresencial.asmx%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Lab2_Dedicacion_DedicacionNoPresencial</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://servicioswebhads13.azurewebsites.net/HorasAlumnos.asmx%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\DediAlum\</RelPath>
+      <UpdateFromURL>http://servicioswebhads13.azurewebsites.net/HorasAlumnos.asmx%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Lab2_DediAlum_HorasAlumnos</CachedSettingsPropName>
+    </WebReferenceUrl>
     <WebReferenceUrl Include="http://sw14.hol.es/ServiciosWeb/comprobarmatricula.php%3fwsdl">
       <UrlBehavior>Dynamic</UrlBehavior>
       <RelPath>Web References\Matriculas\</RelPath>
@@ -372,10 +373,6 @@
       <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
       <CachedSettingsPropName>Lab2_Matriculas_Matriculas</CachedSettingsPropName>
     </WebReferenceUrl>
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadataStorage Include="Service References\DediAlum\" />
-    <WCFMetadataStorage Include="Service References\Dedicacion\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

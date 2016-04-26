@@ -38,8 +38,7 @@
     
         <br />
         <br />
-        <br />
-        <asp:HyperLink ID="HyperLinkVolverATA" runat="server" NavigateUrl="~/TareasAlumno.aspx">Volver a la página anterior</asp:HyperLink>
+        <asp:LinkButton ID="LinkButton1" runat="server">Volver</asp:LinkButton>
     
     </div>
     </form>

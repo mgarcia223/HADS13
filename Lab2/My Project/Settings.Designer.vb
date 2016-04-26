@@ -63,6 +63,26 @@ Namespace My
                 Return CType(Me("Lab2_Matriculas_Matriculas"),String)
             End Get
         End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.WebServiceUrl),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("http://servicioswebhads13.azurewebsites.net/DedicacionNoPresencial.asmx")>  _
+        Public ReadOnly Property Lab2_Dedicacion_DedicacionNoPresencial() As String
+            Get
+                Return CType(Me("Lab2_Dedicacion_DedicacionNoPresencial"),String)
+            End Get
+        End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.WebServiceUrl),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("http://servicioswebhads13.azurewebsites.net/HorasAlumnos.asmx")>  _
+        Public ReadOnly Property Lab2_DediAlum_HorasAlumnos() As String
+            Get
+                Return CType(Me("Lab2_DediAlum_HorasAlumnos"),String)
+            End Get
+        End Property
     End Class
 End Namespace
 

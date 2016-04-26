@@ -18,7 +18,7 @@ Public Class envioEmailConfirmacion
         smtp.EnableSsl = True
         smtp.Port = "587"
         smtp.Host = "smtp.gmail.com"
-        smtp.Credentials = New Net.NetworkCredential("hads13mm@gmail.com", "mikelmarta")
+        smtp.Credentials = New Net.NetworkCredential("hads13mm@gmail.com", "mikelmarta123")
         smtp.Send(message)
 
         Return True

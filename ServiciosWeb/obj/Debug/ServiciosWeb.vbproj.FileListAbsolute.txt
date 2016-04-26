@@ -1,0 +1,12 @@
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\bin\ServiciosWeb.dll
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\bin\ServiciosWeb.pdb
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\bin\ServiciosWeb.xml
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\bin\BD.dll
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\bin\BD.pdb
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\bin\BD.xml
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\obj\Debug\ServiciosWeb.Resources.resources
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\obj\Debug\ServiciosWeb.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\obj\Debug\ServiciosWeb.dll
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\obj\Debug\ServiciosWeb.xml
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\obj\Debug\ServiciosWeb.pdb
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\ServiciosWeb\obj\Debug\ServiciosWeb.vbprojResolveAssemblyReference.cache

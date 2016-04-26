@@ -83,6 +83,6 @@ Public Class InstanciarTarea
     End Sub
 
     Protected Sub LinkButton1_Click(sender As Object, e As EventArgs) Handles LinkButton1.Click
-        Response.Redirect("~/Alumno.aspx")
+        Response.Redirect("~/Privado/Alumno/Alumno.aspx")
     End Sub
 End Class

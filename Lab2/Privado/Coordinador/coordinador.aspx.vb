@@ -7,7 +7,7 @@ Public Class coordinador
     End Sub
 
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim ded As New Dedicacion.DedicacionNoPresencialSoapClient
+        Dim ded As New Dedicacion.DedicacionNoPresencial
         Dim res As Double
         Try
             res = ded.Dedicacion(DropDownList1.SelectedValue)

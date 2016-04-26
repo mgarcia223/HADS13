@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Hads13" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ehu\\Desktop\\Lab8\(25-04-2015-2320\)\\Lab2\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\ehu\\Desktop\\Lab8\(25-04-2015-2320\)\\Lab2\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="HADS-13-BDConnectionString-Web.config Connection String" description="HADS-13-BDConnectionString Connection String used in web.config by the application to access the database." value="Data Source=tcp:hads-13.database.windows.net,1433;Initial Catalog=HADS-13-BD;User ID=hads-13@hads-13" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ehu\\Desktop\\Lab8\(25-04-2015-2320\)\\Lab2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HADS-13-BDConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="AsignaturasProfesor-Web.config Connection String" description="AsignaturasProfesor Connection String used in web.config by the application to access the database." value="Data Source=tcp:hads-13.database.windows.net,1433;Initial Catalog=HADS-13-BD;User ID=hads-13@hads-13;Password=MikelMarta123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ehu\\Desktop\\Lab8\(25-04-2015-2320\)\\Lab2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AsignaturasProfesor']/@connectionString" />
+  </parameter>
+</parameters>

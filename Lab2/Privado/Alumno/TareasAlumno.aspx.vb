@@ -36,7 +36,7 @@ Public Class WebForm1
         Dim DTTarea As DataTable
         Dim email As String
         Dim SelectedTask As String
-        Dim horAlum As New DediAlum.HorasAlumnosSoapClient
+        Dim horAlum As New DediAlum.HorasAlumnos
 
         SelectedTask = DropDownAsigAlum.SelectedItem.Text
         email = Session("email")
@@ -70,6 +70,6 @@ Public Class WebForm1
     End Sub
 
     Protected Sub LinkButton1_Click(sender As Object, e As EventArgs) Handles LinkButton1.Click
-        Response.Redirect("~/Alumno.aspx")
+        Response.Redirect("~/Privado/Alumno/Alumno.aspx")
     End Sub
 End Class

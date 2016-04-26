@@ -48,6 +48,6 @@ Public Class InsertarTarea
     End Sub
 
     Protected Sub LinkButton1_Click(sender As Object, e As EventArgs) Handles LinkButton1.Click
-        Response.Redirect("~/Profesor.aspx")
+        Response.Redirect("~/Privado/Profesor/Profesor.aspx")
     End Sub
 End Class

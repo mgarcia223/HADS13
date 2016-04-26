@@ -38,3 +38,11 @@ C:\Users\hp\Desktop\Lab7(10-04-2015-1957)\Email\obj\Debug\Email.vbproj.GenerateR
 C:\Users\hp\Desktop\Lab7(10-04-2015-1957)\Email\obj\Debug\Email.dll
 C:\Users\hp\Desktop\Lab7(10-04-2015-1957)\Email\obj\Debug\Email.xml
 C:\Users\hp\Desktop\Lab7(10-04-2015-1957)\Email\obj\Debug\Email.pdb
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\Email\bin\Debug\Email.dll
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\Email\bin\Debug\Email.pdb
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\Email\bin\Debug\Email.xml
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\Email\obj\Debug\Email.Resources.resources
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\Email\obj\Debug\Email.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\Email\obj\Debug\Email.dll
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\Email\obj\Debug\Email.xml
+C:\Users\ehu\Desktop\Lab8(25-04-2015-2320)\Email\obj\Debug\Email.pdb
